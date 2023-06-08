@@ -89,16 +89,16 @@
 #define IMLIB_ENABLE_GET_SIMILARITY
 
 // Enable find_lines()
-#define IMLIB_ENABLE_FIND_LINES
+//#define IMLIB_ENABLE_FIND_LINES
 
 // Enable find_line_segments()
-#define IMLIB_ENABLE_FIND_LINE_SEGMENTS
+//#define IMLIB_ENABLE_FIND_LINE_SEGMENTS
 
 // Enable find_circles()
-#define IMLIB_ENABLE_FIND_CIRCLES
+//#define IMLIB_ENABLE_FIND_CIRCLES
 
 // Enable find_rects()
-#define IMLIB_ENABLE_FIND_RECTS
+//#define IMLIB_ENABLE_FIND_RECTS
 
 // Enable find_qrcodes() (14 KB)
 //#define IMLIB_ENABLE_QRCODES
@@ -113,7 +113,7 @@
 // #define IMLIB_ENABLE_HIGH_RES_APRILTAGS
 
 // Enable find_datamatrices() (26 KB)
-#define IMLIB_ENABLE_DATAMATRICES
+//#define IMLIB_ENABLE_DATAMATRICES
 
 // Enable find_barcodes() (42 KB)
 //#define IMLIB_ENABLE_BARCODES
