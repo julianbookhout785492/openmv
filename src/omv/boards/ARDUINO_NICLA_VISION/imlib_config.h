@@ -39,16 +39,16 @@
 #define IMLIB_ENABLE_MATH_OPS
 
 // Enable flood_fill()
-#define IMLIB_ENABLE_FLOOD_FILL
+//#define IMLIB_ENABLE_FLOOD_FILL
 
 // Enable mean()
-#define IMLIB_ENABLE_MEAN
+//#define IMLIB_ENABLE_MEAN
 
 // Enable median()
-#define IMLIB_ENABLE_MEDIAN
+//#define IMLIB_ENABLE_MEDIAN
 
 // Enable mode()
-#define IMLIB_ENABLE_MODE
+//#define IMLIB_ENABLE_MODE
 
 // Enable midpoint()
 #define IMLIB_ENABLE_MIDPOINT
@@ -78,15 +78,15 @@
 #define IMLIB_ENABLE_LENS_CORR
 
 // Enable rotation_corr()
-#define IMLIB_ENABLE_ROTATION_CORR
+//#define IMLIB_ENABLE_ROTATION_CORR
 
 // Enable phasecorrelate()
-#if defined(IMLIB_ENABLE_ROTATION_CORR)
-#define IMLIB_ENABLE_FIND_DISPLACEMENT
-#endif
+//#if defined(IMLIB_ENABLE_ROTATION_CORR)
+//#define IMLIB_ENABLE_FIND_DISPLACEMENT
+//#endif
 
 // Enable get_similarity()
-#define IMLIB_ENABLE_GET_SIMILARITY
+//#define IMLIB_ENABLE_GET_SIMILARITY
 
 // Enable find_lines()
 //#define IMLIB_ENABLE_FIND_LINES
